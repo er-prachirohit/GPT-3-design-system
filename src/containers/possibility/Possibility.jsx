@@ -1,6 +1,6 @@
 import React from 'react'
 import './possibility.css'
-import possibilityImg from '../../assets/Feature_image.png'
+import possibilityImg from '../../assets/Feature.png'
 
 export default function Possibility() {
   return (

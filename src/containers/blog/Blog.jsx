@@ -16,7 +16,7 @@ export default function Blog() {
         <div className='gpt3_blog_container_group_A'>
           <Article
             imgUrl={blog01} 
-            date="Sep 26, 2021" 
+            date="dec 26, 2025" 
             title="GPT-3 and Open  AI is the future. Let us exlore how it is?" 
           />
         </div>
@@ -24,22 +24,22 @@ export default function Blog() {
         <div className='gpt3_blog_container_group_B'>
           <Article
             imgUrl={blog02} 
-            date="Sep 26, 2021" 
+            date="dec 26, 2025" 
             title="GPT-3 and Open  AI is the future. Let us exlore how it is?" 
           />
           <Article
             imgUrl={blog03} 
-            date="Sep 26, 2021" 
+            date="dec 26, 2025" 
             title="GPT-3 and Open  AI is the future. Let us exlore how it is?" 
           />
           <Article
             imgUrl={blog04} 
-            date="Sep 26, 2021" 
+            date="dec 26, 2025" 
             title="GPT-3 and Open  AI is the future. Let us exlore how it is?" 
           />
           <Article
             imgUrl={blog05} 
-            date="Sep 26, 2021" 
+            date="dec 26, 2025" 
             title="GPT-3 and Open  AI is the future. Let us exlore how it is?" 
           />
         </div>

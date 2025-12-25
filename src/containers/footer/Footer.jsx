@@ -44,7 +44,7 @@ export default function Footer() {
         </div>
       </div>
       <div className='gpt3_footer_copyright'>
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>©-prachi 2025 GPT-3. All rights reserved.</p>
       </div>
     </div>
   )
